@@ -5,7 +5,6 @@ from src.pipeline.predict_pipeline import CustomData
 from src.pipeline.predict_pipeline import PredictPipeline
 import numpy as np
 
-
 application=Flask(__name__)
 
 app=application
